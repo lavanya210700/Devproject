@@ -1,0 +1,25 @@
+.card{
+       width: 250px;
+  border: 1px solid #ccc;
+  border-radius: 40px;
+  padding: 10px;
+  text-align: center;
+  margin: 20px auto;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+.img { width: 100%;
+       border-radius: 10px 
+     }
+
+.like{
+        border-radius:30px;
+        background-color:red;
+        color:white;
+
+       }
+.dislike
+{
+                border-radius:30px;
+                 background-color:black;
+                 color:white;
+ }
