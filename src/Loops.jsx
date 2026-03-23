@@ -18,7 +18,11 @@ function Loops(){
             <button onClick={()=>setLike(like+1)} className="like">👍like</button>
             <h1>likes={like}</h1>
             <h1>dislikes={dislike}</h1>
+<<<<<<< HEAD
             <h1>Master Branch Code</h1>
+=======
+           
+>>>>>>> feature
             <button onClick={()=>setdisLike(dislike-1)} className="dislike">👎dislike</button>
           </div>
         
